@@ -1,0 +1,12 @@
+name: "pretix"
+description: "Open-source ticketing and event registration system for self-hosting. Supports paid and free tickets, plugins, and multi-event setups. Licensed under Apache-2.0."
+source_url: "https://pretix.eu/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "ticketing"
+  - "registration"
+icon_url: "https://icons.duckduckgo.com/ip3/pretix.eu.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://pretix.eu/>\n- Repository: <https://github.com/pretix/pretix>\n\nLicense: Apache-2.0.\n"
+updated_at: "2026-11-22 04:00"

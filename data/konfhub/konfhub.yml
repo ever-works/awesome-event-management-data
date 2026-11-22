@@ -1,0 +1,12 @@
+name: "KonfHub"
+description: "Ticketing and event management platform for conferences and workshops in Asia. Supports event pages, registrations, and check-in. Offers freemium and paid plans."
+source_url: "https://konfhub.com/"
+category: "Ticketing"
+tags:
+  - "freemium"
+  - "ticketing"
+  - "registration"
+  - "asia"
+icon_url: "https://icons.duckduckgo.com/ip3/konfhub.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://konfhub.com/>\n"
+updated_at: "2026-11-22 04:00"

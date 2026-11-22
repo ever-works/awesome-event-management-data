@@ -1,0 +1,12 @@
+name: "Ticket Tailor"
+description: "Ticketing platform for events that lets organizers sell tickets directly. Features customizable checkout and no per-ticket fees on paid plans. Operates on a paid subscription model."
+source_url: "https://www.tickettailor.com/"
+category: "Ticketing"
+tags:
+  - "paid"
+  - "ticketing"
+  - "api"
+  - "no-per-ticket-fees"
+icon_url: "https://icons.duckduckgo.com/ip3/www.tickettailor.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.tickettailor.com/>\n"
+updated_at: "2026-11-22 04:00"

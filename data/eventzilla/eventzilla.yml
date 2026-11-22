@@ -1,0 +1,12 @@
+name: "Eventzilla"
+description: "Online ticketing and event registration platform for small and mid-sized events. Includes event pages, discount codes, and check-in. Offers a free plan for free events and paid options."
+source_url: "https://www.eventzilla.net/"
+category: "Ticketing"
+tags:
+  - "freemium"
+  - "ticketing"
+  - "registration"
+  - "small-business"
+icon_url: "https://icons.duckduckgo.com/ip3/www.eventzilla.net.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.eventzilla.net/>\n"
+updated_at: "2026-11-22 04:00"

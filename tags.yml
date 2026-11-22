@@ -1,0 +1,58 @@
+- id: ticketing
+  name: "Ticketing"
+- id: freemium
+  name: "Freemium"
+- id: api
+  name: "API"
+- id: event-management
+  name: "Event Management"
+- id: enterprise
+  name: "Enterprise"
+- id: meetings
+  name: "Meetings"
+- id: community
+  name: "Community"
+- id: paid
+  name: "Paid"
+- id: event-app
+  name: "Event App"
+- id: check-in
+  name: "Check-In"
+- id: hybrid
+  name: "Hybrid"
+- id: virtual
+  name: "Virtual"
+- id: registration
+  name: "Registration"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: academic
+  name: "Academic"
+- id: webinars
+  name: "Webinars"
+- id: marketing
+  name: "Marketing"
+- id: ai-powered
+  name: "AI-Powered"
+- id: b2b
+  name: "B2B"
+- id: networking
+  name: "Networking"
+- id: training
+  name: "Training"
+- id: sales
+  name: "Sales"
+- id: small-business
+  name: "Small Business"
+- id: no-per-ticket-fees
+  name: "No Per-Ticket Fees"
+- id: expo
+  name: "Expo"
+- id: video
+  name: "Video"
+- id: rsvp
+  name: "RSVP"
+- id: asia
+  name: "Asia"

@@ -1,0 +1,12 @@
+name: "BigMarker"
+description: "Webinar and virtual event platform for marketing, training, and conferences. Supports live, automated, and on-demand webinars. Offers freemium and paid plans."
+source_url: "https://www.bigmarker.com/"
+category: "Webinars"
+tags:
+  - "freemium"
+  - "webinars"
+  - "virtual"
+  - "training"
+icon_url: "https://icons.duckduckgo.com/ip3/www.bigmarker.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.bigmarker.com/>\n"
+updated_at: "2026-11-22 04:00"

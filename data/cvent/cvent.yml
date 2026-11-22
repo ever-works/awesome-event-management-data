@@ -1,0 +1,12 @@
+name: "Cvent"
+description: "Enterprise event management platform for meetings, conferences, and trade shows. Provides registration, venue sourcing, event marketing, and on-site solutions. Targets large organizations with paid, custom pricing."
+source_url: "https://www.cvent.com/"
+category: "Event Management Platforms"
+tags:
+  - "enterprise"
+  - "event-management"
+  - "api"
+  - "meetings"
+icon_url: "https://icons.duckduckgo.com/ip3/www.cvent.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://www.cvent.com/>\n"
+updated_at: "2026-11-22 04:00"

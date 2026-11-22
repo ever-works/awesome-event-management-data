@@ -1,0 +1,12 @@
+name: "Eventbrite"
+description: "Ticketing and event management platform for creating, promoting, and managing events of all sizes. Organizers can sell tickets online and collect payments. Offers a free plan for free events and paid pricing for ticketed events."
+source_url: "https://www.eventbrite.com/"
+category: "Ticketing"
+tags:
+  - "ticketing"
+  - "freemium"
+  - "api"
+  - "event-management"
+icon_url: "https://icons.duckduckgo.com/ip3/www.eventbrite.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.eventbrite.com/>\n"
+updated_at: "2026-11-22 04:00"

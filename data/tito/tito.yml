@@ -1,0 +1,12 @@
+name: "Tito"
+description: "Ticketing and registration platform for conferences, workshops, and community events. Features customizable event pages and attendee management. Charges paid fees per ticket sold."
+source_url: "https://tito.io/"
+category: "Ticketing"
+tags:
+  - "paid"
+  - "ticketing"
+  - "api"
+  - "registration"
+icon_url: "https://icons.duckduckgo.com/ip3/tito.io.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://tito.io/>\n"
+updated_at: "2026-11-22 04:00"

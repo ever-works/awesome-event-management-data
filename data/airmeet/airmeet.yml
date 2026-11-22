@@ -1,0 +1,12 @@
+name: "Airmeet"
+description: "Virtual events platform for webinars, meetups, and conferences. Offers social tables, networking, and stage sessions. Provides a free plan and paid subscriptions."
+source_url: "https://www.airmeet.com/"
+category: "Virtual & Hybrid Events"
+tags:
+  - "freemium"
+  - "virtual"
+  - "webinars"
+  - "networking"
+icon_url: "https://icons.duckduckgo.com/ip3/www.airmeet.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.airmeet.com/>\n"
+updated_at: "2026-11-22 04:00"

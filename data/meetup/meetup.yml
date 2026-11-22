@@ -1,0 +1,12 @@
+name: "Meetup"
+description: "Platform for organizing and discovering local and online community events. Organizers create groups and manage RSVPs and ticketing. Offers free attendance and paid organizer subscriptions."
+source_url: "https://www.meetup.com/"
+category: "Event Management Platforms"
+tags:
+  - "freemium"
+  - "community"
+  - "event-management"
+  - "rsvp"
+icon_url: "https://icons.duckduckgo.com/ip3/www.meetup.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.meetup.com/>\n"
+updated_at: "2026-11-22 04:00"

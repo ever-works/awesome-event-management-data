@@ -1,0 +1,12 @@
+- id: event-management-platforms
+  name: "Event Management Platforms"
+- id: ticketing
+  name: "Ticketing"
+- id: virtual-and-hybrid-events
+  name: "Virtual & Hybrid Events"
+- id: webinars
+  name: "Webinars"
+- id: open-source-and-self-hosted
+  name: "Open-Source & Self-Hosted"
+- id: event-apps-and-check-in
+  name: "Event Apps & Check-In"

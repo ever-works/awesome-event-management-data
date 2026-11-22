@@ -1,0 +1,12 @@
+name: "Luma"
+description: "Community event platform for creating event pages, selling tickets, and managing RSVPs. Designed for creators and communities hosting recurring gatherings. Offers free and paid subscription tiers."
+source_url: "https://lu.ma/"
+category: "Event Management Platforms"
+tags:
+  - "freemium"
+  - "community"
+  - "ticketing"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/lu.ma.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://lu.ma/>\n"
+updated_at: "2026-11-22 04:00"

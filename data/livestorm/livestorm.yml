@@ -1,0 +1,12 @@
+name: "Livestorm"
+description: "Webinar and virtual event platform for live and on-demand sessions. Includes registration, engagement analytics, and integrations with CRM tools. Offers a free plan and paid tiers."
+source_url: "https://livestorm.co/"
+category: "Webinars"
+tags:
+  - "freemium"
+  - "webinars"
+  - "api"
+  - "marketing"
+icon_url: "https://icons.duckduckgo.com/ip3/livestorm.co.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://livestorm.co/>\n"
+updated_at: "2026-11-22 04:00"

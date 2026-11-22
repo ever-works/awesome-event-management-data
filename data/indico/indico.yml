@@ -1,0 +1,12 @@
+name: "Indico"
+description: "Open-source event management and conference scheduling system developed by CERN. Supports abstract submission, registration, and room booking. Licensed under MIT and self-hosted."
+source_url: "https://getindico.io/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "event-management"
+  - "academic"
+icon_url: "https://icons.duckduckgo.com/ip3/getindico.io.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://getindico.io/>\n- Repository: <https://github.com/indico/indico>\n\nLicense: MIT.\n"
+updated_at: "2026-11-22 04:00"

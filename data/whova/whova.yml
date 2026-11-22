@@ -1,0 +1,12 @@
+name: "Whova"
+description: "Event management app for in-person and hybrid conferences. Includes agenda, networking, check-in, and lead retrieval. Targets event organizers with paid plans."
+source_url: "https://whova.com/"
+category: "Event Apps & Check-In"
+tags:
+  - "paid"
+  - "event-app"
+  - "check-in"
+  - "hybrid"
+icon_url: "https://icons.duckduckgo.com/ip3/whova.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://whova.com/>\n"
+updated_at: "2026-11-22 04:00"
