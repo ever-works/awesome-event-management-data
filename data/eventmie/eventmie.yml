@@ -1,0 +1,55 @@
+name: Eventmie
+description: Eventmie is an open-source self-hosted Eventbrite alternative for
+  running your own events business on your own hosting and domain. It can be
+  used as an event ticket selling website or event management platform.
+source_url: https://github.com/Classiebit/eventmie
+category: Open-Source & Self-Hosted
+tags:
+  - Open Source
+  - Self-Hosted
+  - PHP
+  - Eventbrite Alternative
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Eventmie is an open-source self-hosted Eventbrite alternative. It allows users
+  to run their own events business on their own hosting and domain, functioning
+  as both an event ticket selling website and an event management platform.
+
+
+  ## Features
+
+
+  - Open-source self-hosted event management
+
+  - Event ticket selling capabilities
+
+  - Eventbrite alternative
+
+  - Runs on your own hosting and domain
+
+  - PHP-based platform
+
+
+  ## Deployment
+
+
+  Self-hosted
+
+
+  ## License
+
+
+  Open-source (GitHub repository)
+
+
+  ## Source Code
+
+
+  https://github.com/Classiebit/eventmie
+brand: Classiebit
+images:
+  - https://github.com/Classiebit/eventmie/raw/main/public/images/logo.png
+updated_at: 2026-11-27 01:56

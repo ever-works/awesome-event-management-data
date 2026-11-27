@@ -1,0 +1,73 @@
+name: Vimeo
+description: Vimeo is a video platform with professional webinar features
+  including 10 templates, customizable registration forms, live polls and Q&A,
+  real-time analytics, and robust post-event editing. Webinar features require
+  the Advanced plan starting at $125/month, which includes unlimited events with
+  up to 100 attendees, interactive audience features, and event analytics. Vimeo
+  also offers AI features for transcripts, subtitles, scripts, chapters,
+  highlight reels, dubbing, and AI chatbot.
+source_url: https://vimeo.com/
+category: Webinars
+tags:
+  - professional-features
+  - video-editing
+  - ai-powered
+  - post-event-editing
+featured: false
+markdown: >
+  ## Overview
+
+
+  Vimeo is a video hosting and editing platform that includes webinar
+  capabilities. Its extensive video editing and post-production features make it
+  suitable for users who want aesthetic control and powerful editing for webinar
+  recordings.
+
+
+  ## Key Features
+
+
+  - 10 professional templates with nine different scene options
+
+  - Fully customizable registration forms (aesthetics and fields)
+
+  - One-click "Go live" functionality
+
+  - In-event polls and Q&A sessions
+
+  - Live analytics: real-time watchers, peak viewers, total views, average time
+  watched
+
+  - Robust post-event editing: trimming (including text-based editing),
+  stitching videos, adding music, graphics, and text
+
+  - Turning clips into embeddable GIFs
+
+  - Customizable video player and end screen
+
+  - Captions, chapters, forms, and cards
+
+  - AI features: automatic transcript generation, subtitle translation, script
+  generation, chapter creation, highlight reel cutting, audio dubbing, AI
+  chatbot for viewer questions
+
+  - Zapier integration for automating workflows
+
+
+  ## Pricing
+
+
+  - Advanced plan: From $125/month, required for webinar features
+
+  - Includes unlimited events with up to 100 attendees, interactive audience
+  features, and event analytics
+
+
+  ## Deployment
+
+
+  Cloud-based (SaaS)
+brand: Vimeo
+brand_logo_url: https://vimeo.com/logo.png
+images: []
+updated_at: 2026-11-27 01:56

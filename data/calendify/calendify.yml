@@ -1,0 +1,36 @@
+name: Calendify
+description: An event community where users can share, publish, and subscribe to
+  event calendars to stay informed about interests and upcoming events.
+source_url: https://calendify.com/
+category: Event Management Platforms
+tags:
+  - freemium
+  - calendar
+  - event-community
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Calendify is an event community platform for sharing, publishing, and
+  subscribing to event calendars.
+
+
+  ## Features
+
+
+  - Clean UI
+
+  - Easy to Set-up and use
+
+  - Events as RSS Feed
+
+  - Events as iCal
+
+
+  ## Pricing
+
+
+  Freemium.
+brand: Calendify
+updated_at: 2026-11-27 01:56

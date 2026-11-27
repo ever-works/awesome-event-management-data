@@ -1,0 +1,56 @@
+name: Contrast
+description: Contrast is a webinar platform focused on visual customization
+  without the extensive video editing features of Vimeo. Contrast Studio makes
+  it easy to preview and customize the look and feel of webinars with two
+  themes, customizable brand colors and logos, and animated topic introductions.
+  Recordings are automatically transcribed, with in-depth analytics and quick
+  clip creation for social media sharing.
+source_url: https://contrast.co/
+category: Webinars
+tags:
+  - visual-customization
+  - auto-transcription
+  - analytics
+  - social-clips
+featured: false
+markdown: >
+  ## Overview
+
+
+  Contrast is a webinar platform designed for users who want visual
+  customization of their webinars without needing the full video editing suite
+  that Vimeo offers.
+
+
+  ## Key Features
+
+
+  - Contrast Studio for previewing and customizing the look and feel of webinars
+
+  - Two themes to choose from
+
+  - Customizable brand colors and logos
+
+  - Animated topic introductions
+
+  - Automatic transcription of recordings
+
+  - In-depth analytics
+
+  - Quick clip creation for sharing on social media
+
+
+  ## Pricing
+
+
+  - Pricing not specified in source
+
+
+  ## Deployment
+
+
+  Cloud-based (SaaS)
+brand: Contrast
+brand_logo_url: https://contrast.co/logo.png
+images: []
+updated_at: 2026-11-27 01:56

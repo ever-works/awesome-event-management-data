@@ -1,0 +1,67 @@
+name: pretalx
+description: Web-based event management platform for running calls for papers,
+  reviewing submissions, and scheduling talks. Includes exports and imports for
+  various related tools. Licensed under Apache-2.0.
+source_url: https://pretalx.com/
+category: Open-Source & Self-Hosted
+tags:
+  - open-source
+  - self-hosted
+  - Apache-2.0
+  - Python
+featured: false
+markdown: >-
+  # pretalx
+
+
+  ## Overview
+
+
+  pretalx is a web-based event management platform for running calls for papers,
+  reviewing submissions, and scheduling talks.
+
+
+  ## Features
+
+
+  - Call for Papers management
+
+  - Submission reviewing
+
+  - Talk scheduling
+
+  - Exports and imports for various related tools
+
+
+  ## Technology
+
+
+  - Python
+
+
+  ## License
+
+
+  Apache-2.0
+
+
+  ## Links
+
+
+  - Source Code: Available on the project website
+
+
+  ## Deployment
+
+
+  Self-hosted
+
+
+  ## Pricing
+
+
+  Free and open source under Apache-2.0 license
+brand: pretalx
+brand_logo_url: null
+images: []
+updated_at: 2026-11-27 01:56

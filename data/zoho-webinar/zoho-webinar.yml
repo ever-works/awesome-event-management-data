@@ -1,0 +1,47 @@
+name: Zoho Webinar
+description: Zoho Webinar is a simple, affordable webinar platform for managing
+  webinars at scale. It is part of the Zoho suite and offers core webinar
+  functionality without the extensive integrations and analytics of
+  higher-priced competitors. Pricing is affordable even as you scale up.
+source_url: https://www.zoho.com/webinar/
+category: Webinars
+tags:
+  - affordable
+  - zoho-suite
+  - simple
+  - scalable
+featured: false
+markdown: >
+  ## Overview
+
+
+  Zoho Webinar is a webinar platform offered as part of the Zoho suite of
+  business applications. It provides a simple option for managing webinars
+  without the extensive bells and whistles (integrations and analytics) of some
+  other webinar apps, but is exceedingly affordable even at scale.
+
+
+  ## Key Features
+
+
+  - Simple webinar management
+
+  - Affordable pricing that scales
+
+  - Part of the Zoho ecosystem
+
+
+  ## Pricing
+
+
+  - Affordable pricing (specific tiers not detailed in source)
+
+
+  ## Deployment
+
+
+  Cloud-based (SaaS)
+brand: Zoho
+brand_logo_url: https://www.zoho.com/logo.png
+images: []
+updated_at: 2026-11-27 01:56

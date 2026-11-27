@@ -1,0 +1,43 @@
+name: Webex
+description: Webex is an enterprise virtual event and webinar platform from
+  Cisco. It is mentioned as an enterprise solution option for organizations that
+  need webinars plus additional capabilities beyond standard webinar software.
+source_url: https://www.webex.com/
+category: Virtual & Hybrid Events
+tags:
+  - enterprise
+  - cisco
+  - virtual-events
+  - webinars
+featured: false
+markdown: >
+  ## Overview
+
+
+  Webex is an enterprise virtual event and webinar platform from Cisco. It is
+  mentioned as an enterprise solution for organizations that need webinar
+  capabilities as part of a broader virtual event solution.
+
+
+  ## Key Features
+
+
+  - Enterprise virtual event capabilities
+
+  - Webinar functionality
+
+
+  ## Pricing
+
+
+  - Pricing not specified in source
+
+
+  ## Deployment
+
+
+  Cloud-based (SaaS)
+brand: Cisco
+brand_logo_url: https://www.cisco.com/content/dam/cisco/master/images/logos/cisco-logo.svg
+images: []
+updated_at: 2026-11-27 01:56

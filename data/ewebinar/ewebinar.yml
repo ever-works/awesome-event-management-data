@@ -1,0 +1,76 @@
+name: eWebinar
+description: eWebinar is a webinar automation platform focused solely on
+  pre-recorded and scheduled webinars with real-time interactions and live chat.
+  It supports just-in-time sessions, custom interactions (polls, questions,
+  downloads, tips, offers) placed on a video timeline, and native integrations
+  with HubSpot, Salesforce, and ActiveCampaign. Pricing starts at $99/month for
+  the Level 1 plan with 1 active webinar and 1,000 registrants per month.
+source_url: https://ewebinar.com/
+category: Webinars
+tags:
+  - automated-webinars
+  - pre-recorded
+  - real-time-chat
+  - integrations
+featured: false
+markdown: >
+  ## Overview
+
+
+  eWebinar is a webinar automation platform that focuses exclusively on
+  automating pre-recorded webinars on a schedule, complete with real-time
+  interactions and live chat to deliver an engaging experience without requiring
+  live hosting.
+
+
+  ## Key Features
+
+
+  - Upload any video, webinar, presentation, or training; import from Zoom; or
+  paste a link to videos hosted on YouTube, Vimeo, S3, and other providers
+
+  - Schedule webinars with start and end dates, days of the week, times, and
+  blackout dates
+
+  - Just-in-time sessions where attendees can register and join in as little as
+  five minutes
+
+  - Real-time chat with custom welcome and away messages
+
+  - Human-in-the-loop: hosts receive notifications when attendees respond and
+  can continue the chat live
+
+  - Timeline-based interaction editor to drag and drop pre-populated questions,
+  polls, downloads, tips, and offers at any point in the video
+
+  - Native integrations with HubSpot, Salesforce, and ActiveCampaign
+
+  - Zapier integration for connecting with other apps
+
+  - In-depth webinar analytics
+
+
+  ## Pricing
+
+
+  - Level 1 plan: $99/month for 1 active webinar, 1,000 registrants per month,
+  unlimited team members
+
+  - Level 2 plan: $199/month for up to 5 published webinars and 3,000 monthly
+  registrants
+
+
+  ## Deployment
+
+
+  Cloud-based (SaaS)
+
+
+  ## Limitations
+
+
+  - No support for live webinars (pre-recorded and scheduled only)
+brand: eWebinar
+brand_logo_url: https://ewebinar.com/logo.png
+images: []
+updated_at: 2026-11-27 01:56

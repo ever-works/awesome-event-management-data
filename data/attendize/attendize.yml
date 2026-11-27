@@ -1,0 +1,56 @@
+name: Attendize
+description: Attendize is an open-source ticket selling and event management
+  platform built on Laravel. It provides features for selling event tickets,
+  managing attendees, and handling event registrations. The platform is
+  self-hosted and released under an open-source license.
+source_url: https://github.com/attendize/attendize
+category: Ticketing
+tags:
+  - Open Source
+  - Self-Hosted
+  - PHP
+  - Laravel
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Attendize is an open-source ticket selling and event management platform built
+  on Laravel. It is designed for selling event tickets and managing event
+  registrations on a self-hosted basis.
+
+
+  ## Features
+
+
+  - Open-source ticket selling platform
+
+  - Built on Laravel PHP framework
+
+  - Self-hosted deployment
+
+  - Event management and attendee tracking
+
+  - Ticket sales and registration management
+
+
+  ## Deployment
+
+
+  Self-hosted
+
+
+  ## License
+
+
+  Open-source (GitHub repository)
+
+
+  ## Source Code
+
+
+  https://github.com/attendize/attendize
+brand: Attendize
+images:
+  - https://github.com/attendize/attendize/raw/main/public/images/logo.png
+updated_at: 2026-11-27 01:56

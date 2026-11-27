@@ -1,0 +1,52 @@
+name: Event Espresso
+description: Event Espresso is a WordPress plugin for building event ticketing
+  websites. The core plugin enables users to sell event tickets and manage event
+  registrations directly from a WordPress site.
+source_url: https://eventespresso.com/
+category: Ticketing
+tags:
+  - WordPress
+  - PHP
+  - Self-Hosted
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Event Espresso 4 Core is a WordPress plugin for building event ticketing
+  websites. It enables users to sell event tickets and manage event
+  registrations directly from their WordPress site.
+
+
+  ## Features
+
+
+  - WordPress plugin for event ticketing
+
+  - Sell event tickets directly from WordPress
+
+  - Event registration management
+
+  - Core plugin for Event Espresso platform
+
+
+  ## Deployment
+
+
+  Self-hosted (WordPress plugin)
+
+
+  ## Pricing
+
+
+  Paid (WordPress plugin with core and add-on options)
+
+
+  ## Official Website
+
+
+  https://eventespresso.com/
+brand: Event Espresso
+images:
+  - https://eventespresso.com/wp-content/uploads/2020/01/eventespresso-logo.png
+updated_at: 2026-11-27 01:56
