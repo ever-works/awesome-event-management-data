@@ -1,14 +1,70 @@
-- url: "https://zapier.com/blog/best-event-management-software/"
-  title: "Zapier — The 8 best event management and planning software"
-- url: "https://zapier.com/blog/best-webinar-software/"
-  title: "Zapier — The Best Webinar Software for Marketers in 2026"
-- url: "https://www.softwaresuggest.com/event-management-software"
-  title: "SoftwareSuggest — Event Management software"
-- url: "https://www.saashub.com/best-events-software"
-  title: "SaaSHub — Events"
-- url: "https://openalternative.co/categories/business-software/scheduling-event-management"
-  title: "OpenAlternative — Scheduling & Event Management"
-- url: "https://awesome-selfhosted.net/tags/conference-management.html"
-  title: "awesome-selfhosted — Conference Management"
-- url: "https://github.com/topics/event-management"
-  title: "GitHub topic — `event-management` (2,041 repos)"
+- url: https://awesome-selfhosted.net/tags/conference-management.html
+  normalized_url: https://awesome-selfhosted.net/tags/conference-management.html
+  first_seen_at: 2026-11-27T01:50:12.949Z
+  last_attempted_at: 2026-11-27T01:50:12.949Z
+  last_success_at: 2026-11-27T01:50:12.949Z
+  status: success
+  items_created: 4
+  pipeline: agent-pipeline
+- url: https://github.com/topics/event-management
+  normalized_url: https://github.com/topics/event-management
+  first_seen_at: 2026-11-27T01:52:19.610Z
+  last_attempted_at: 2026-11-27T01:52:19.610Z
+  last_success_at: 2026-11-27T01:52:19.610Z
+  status: success
+  items_created: 3
+  pipeline: agent-pipeline
+- url: https://luma.com
+  normalized_url: https://luma.com/
+  first_seen_at: 2026-11-27T01:53:12.982Z
+  last_attempted_at: 2026-11-27T01:53:12.982Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://luma.com"
+- url: https://openalternative.co/categories/business-software/scheduling-event-management
+  normalized_url: https://openalternative.co/categories/business-software/scheduling-event-management
+  first_seen_at: 2026-11-27T01:49:26.312Z
+  last_attempted_at: 2026-11-27T01:49:26.312Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://openalternative.co/categories/business-software/scheduling-event-ma\
+    nagement"
+- url: https://www.saashub.com/best-events-software
+  normalized_url: https://www.saashub.com/best-events-software
+  first_seen_at: 2026-11-27T01:49:17.985Z
+  last_attempted_at: 2026-11-27T01:49:17.985Z
+  last_success_at: 2026-11-27T01:49:17.985Z
+  status: success
+  items_created: 9
+  pipeline: agent-pipeline
+- url: https://www.softwaresuggest.com/event-management-software
+  normalized_url: https://www.softwaresuggest.com/event-management-software
+  first_seen_at: 2026-11-27T01:48:13.150Z
+  last_attempted_at: 2026-11-27T01:48:13.150Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://www.softwaresuggest.com/event-management-software"
+- url: https://zapier.com/blog/best-event-management-software/
+  normalized_url: https://zapier.com/blog/best-event-management-software
+  first_seen_at: 2026-11-27T01:46:04.645Z
+  last_attempted_at: 2026-11-27T01:46:04.645Z
+  last_success_at: 2026-11-27T01:46:04.645Z
+  status: success
+  items_created: 10
+  pipeline: agent-pipeline
+- url: https://zapier.com/blog/best-webinar-software/
+  normalized_url: https://zapier.com/blog/best-webinar-software
+  first_seen_at: 2026-11-27T01:47:48.194Z
+  last_attempted_at: 2026-11-27T01:47:48.194Z
+  last_success_at: 2026-11-27T01:47:48.194Z
+  status: success
+  items_created: 10
+  pipeline: agent-pipeline

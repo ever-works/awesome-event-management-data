@@ -1,58 +1,166 @@
 - id: ticketing
-  name: "Ticketing"
+  name: Ticketing
 - id: freemium
-  name: "Freemium"
+  name: Freemium
 - id: api
-  name: "API"
+  name: API
 - id: event-management
-  name: "Event Management"
+  name: Event Management
 - id: enterprise
-  name: "Enterprise"
+  name: Enterprise
 - id: meetings
-  name: "Meetings"
+  name: Meetings
 - id: community
-  name: "Community"
+  name: Community
 - id: paid
-  name: "Paid"
+  name: Paid
 - id: event-app
-  name: "Event App"
+  name: Event App
 - id: check-in
-  name: "Check-In"
+  name: Check In
 - id: hybrid
-  name: "Hybrid"
+  name: Hybrid
 - id: virtual
-  name: "Virtual"
+  name: Virtual
 - id: registration
-  name: "Registration"
+  name: Registration
 - id: open-source
-  name: "Open Source"
+  name: Open Source
 - id: self-hosted
-  name: "Self-Hosted"
+  name: Self Hosted
 - id: academic
-  name: "Academic"
+  name: Academic
 - id: webinars
-  name: "Webinars"
+  name: Webinars
 - id: marketing
-  name: "Marketing"
+  name: Marketing
 - id: ai-powered
-  name: "AI-Powered"
+  name: AI Powered
 - id: b2b
-  name: "B2B"
+  name: B2b
 - id: networking
-  name: "Networking"
+  name: Networking
 - id: training
-  name: "Training"
+  name: Training
 - id: sales
-  name: "Sales"
+  name: Sales
 - id: small-business
-  name: "Small Business"
+  name: Small Business
 - id: no-per-ticket-fees
-  name: "No Per-Ticket Fees"
+  name: No Per-Ticket Fees
 - id: expo
-  name: "Expo"
+  name: Expo
 - id: video
-  name: "Video"
+  name: Video
 - id: rsvp
-  name: "RSVP"
+  name: RSVP
 - id: asia
-  name: "Asia"
+  name: Asia
+- id: adobe
+  name: Adobe
+- id: virtual-events
+  name: Virtual Events
+- id: php
+  name: PHP
+- id: laravel
+  name: Laravel
+- id: audience-interaction
+  name: Audience Interaction
+- id: dynamic-videos
+  name: Dynamic Videos
+- id: calendar
+  name: Calendar
+- id: event-community
+  name: Event Community
+- id: visual-customization
+  name: Visual Customization
+- id: auto-transcription
+  name: Auto Transcription
+- id: analytics
+  name: Analytics
+- id: social-clips
+  name: Social Clips
+- id: affordable
+  name: Affordable
+- id: scalable
+  name: Scalable
+- id: livestreaming
+  name: Livestreaming
+- id: paid-webinars
+  name: Paid Webinars
+- id: wordpress
+  name: WordPress
+- id: email-marketing
+  name: Email Marketing
+- id: eventbrite-alternative
+  name: Eventbrite Alternative
+- id: mobile-app
+  name: Mobile App
+- id: engagement
+  name: Engagement
+- id: conferences
+  name: Conferences
+- id: invitations
+  name: Invitations
+- id: saas
+  name: SaaS
+- id: automated-webinars
+  name: Automated Webinars
+- id: pre-recorded
+  name: Pre Recorded
+- id: real-time-chat
+  name: Real Time Chat
+- id: integrations
+  name: Integrations
+- id: photo-sharing
+  name: Photo Sharing
+- id: qr-code
+  name: QR Code
+- id: photo-wall
+  name: Photo Wall
+- id: events
+  name: Events
+- id: agpl-30
+  name: AGPL 3.0
+- id: mit
+  name: MIT
+- id: ruby
+  name: Ruby
+- id: cards
+  name: Cards
+- id: lms
+  name: LMS
+- id: apache-20
+  name: Apache 2.0
+- id: python
+  name: Python
+- id: seating
+  name: Seating
+- id: diagramming
+  name: Diagramming
+- id: cloud
+  name: Cloud
+- id: security
+  name: Security
+- id: professional-features
+  name: Professional Features
+- id: video-editing
+  name: Video Editing
+- id: post-event-editing
+  name: Post Event Editing
+- id: cisco
+  name: Cisco
+- id: account-based-marketing
+  name: Account Based Marketing
+- id: video-marketing
+  name: Video Marketing
+- id: zoho-suite
+  name: Zoho Suite
+- id: simple
+  name: Simple
+- id: video-conferencing
+  name: Video Conferencing
+- id: streaming
+  name: Streaming
+- id: familiar-interface
+  name: Familiar Interface
