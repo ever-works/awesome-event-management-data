@@ -6,6 +6,15 @@
   status: success
   items_created: 4
   pipeline: agent-pipeline
+- url: https://getindico.io
+  normalized_url: https://getindico.io/
+  first_seen_at: 2026-11-28T00:10:36.042Z
+  last_attempted_at: 2026-11-28T00:10:36.042Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://getindico.io"
 - url: https://github.com/topics/event-management
   normalized_url: https://github.com/topics/event-management
   first_seen_at: 2026-11-27T01:52:19.610Z
@@ -14,6 +23,15 @@
   status: success
   items_created: 3
   pipeline: agent-pipeline
+- url: https://livestorm.co
+  normalized_url: https://livestorm.co/
+  first_seen_at: 2026-11-28T00:10:47.880Z
+  last_attempted_at: 2026-11-28T00:10:47.880Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://livestorm.co"
 - url: https://luma.com
   normalized_url: https://luma.com/
   first_seen_at: 2026-11-27T01:53:12.982Z
@@ -34,6 +52,50 @@
   error: "No items retrieved from URL:
     https://openalternative.co/categories/business-software/scheduling-event-ma\
     nagement"
+- url: https://pretix.eu
+  normalized_url: https://pretix.eu/
+  first_seen_at: 2026-11-28T00:10:26.632Z
+  last_attempted_at: 2026-11-28T00:10:26.632Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://pretix.eu"
+- url: https://tito.io
+  normalized_url: https://tito.io/
+  first_seen_at: 2026-11-28T00:10:13.423Z
+  last_attempted_at: 2026-11-28T00:10:13.423Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://tito.io"
+- url: https://www.bizzabo.com
+  normalized_url: https://www.bizzabo.com/
+  first_seen_at: 2026-11-28T00:09:30.958Z
+  last_attempted_at: 2026-11-28T00:09:30.958Z
+  last_success_at: 2026-11-28T00:09:30.958Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
+- url: https://www.cvent.com
+  normalized_url: https://www.cvent.com/
+  first_seen_at: 2026-11-28T00:11:02.816Z
+  last_attempted_at: 2026-11-28T00:11:02.816Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://www.cvent.com"
+- url: https://www.hubilo.com
+  normalized_url: https://www.hubilo.com/
+  first_seen_at: 2026-11-28T00:10:05.608Z
+  last_attempted_at: 2026-11-28T00:10:05.608Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://www.hubilo.com"
 - url: https://www.saashub.com/best-events-software
   normalized_url: https://www.saashub.com/best-events-software
   first_seen_at: 2026-11-27T01:49:17.985Z
@@ -52,6 +114,15 @@
   provider: Local (Readability)
   error: "No items retrieved from URL:
     https://www.softwaresuggest.com/event-management-software"
+- url: https://www.swapcard.com
+  normalized_url: https://www.swapcard.com/
+  first_seen_at: 2026-11-28T00:09:46.544Z
+  last_attempted_at: 2026-11-28T00:09:46.544Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://www.swapcard.com"
 - url: https://zapier.com/blog/best-event-management-software/
   normalized_url: https://zapier.com/blog/best-event-management-software
   first_seen_at: 2026-11-27T01:46:04.645Z
